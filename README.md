@@ -1,13 +1,5 @@
 # S&P 500 Index Forecasting using XGBoost
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub Stars](https://img.shields.io/github/stars/jorgesandoval/sp500-forecasting-xgboost.svg)
-![GitHub Downloads](https://img.shields.io/github/downloads/jorgesandoval/sp500-forecasting-xgboost/total.svg)
-![GitHub Forks](https://img.shields.io/github/forks/jorgesandoval/sp500-forecasting-xgboost.svg)
-
-
-![Alt text](images/SP500Forecasting.png)
-This repository houses a Jupyter notebook showcasing the XGBoost for forecasting the S&P 500 index using time-series data.
 
 
 
